@@ -11,9 +11,7 @@ Merve Öncü
 <span style="color: pink;">:heavy_check_mark: I'm a Front End Developer.</span>
 </div>
 </br>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merve-oncu/)
-[![Linkedin: merve-oncu](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merve-oncu/)
-[![Gmail: merveeoncuu86](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:merveeoncuu86@gmail.com)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=merve-86" alt="profile views">
