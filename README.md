@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1720051200&v=beta&t=slNiuCT8NxwfvCj9EGbnfMj2D_kl6Ay0boay17JhrdM" width="500" height="290">
+  <img src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966" width="500" height="290">
 </div>
 </br>
 <div align="center">
 :wave: Hi, I'm 
-@QB143-Ömer Faruk
+Merve Öncğ
 
 </div>
 <div align="center">
