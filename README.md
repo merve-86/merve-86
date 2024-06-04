@@ -4,7 +4,7 @@
 </br>
 <div align="center">
 :wave: Hi, I'm 
-Merve Öncğ
+Merve Öncü
 
 </div>
 <div align="center">
