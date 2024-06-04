@@ -8,14 +8,14 @@ Merve Öncü
 
 </div>
 <div align="center">
-<span style="color: pink;">:heavy_check_mark: I'm a Full Stack Developer.</span>
+<span style="color: pink;">:heavy_check_mark: I'm a Front End Developer.</span>
 </div>
 </br>
-[![Linkedin: omer-faruk-oncu](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-faruk-oncu/)
-[![Gmail: farukoncu78](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:farukoncu78@gmail.com)
-[![Medium: farukoncu78](https://img.shields.io/badge/medium-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farukoncu78)
+[![Linkedin: merve-oncu](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merve-oncu/)
+[![Gmail: merveeoncuu86](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:merveeoncuu86@gmail.com)
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omer-faruk-oncu" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=merve-86" alt="profile views">
 </p>
 <h2 align="center">
 Technical Skills
