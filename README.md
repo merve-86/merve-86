@@ -43,42 +43,7 @@ Technical Skills
           >Frameworks, Libraries And Technologies</strong
         >
       </td>
-      <td  align="center""><strong>Preview</strong></td>
-   <tr>
-        <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
-        <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
-        <td><img src="https://github.com/omer-faruk-oncu/movie-app/assets/154313389/a58c27a7-038f-4e2f-8ac5-2759ea5e602f" alt="Movie App" /> </td>
-      </tr>
-         <tr>
-        <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
-        <td> React - useState - useEffect - useContext - axios - async/await </td>
-        <td><img src="https://github.com/omer-faruk-oncu/product-list/assets/154313389/8d6a052e-e2bb-4239-a07a-9757d94a6673" alt="Product List" /> </td>
-      </tr>
-      <tr style="margin: auto;">
-        <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>
-        <td>React - useState - useEffect</td>
-        <td><img src="https://github.com/omer-faruk-oncu/nba-legends/assets/154313389/f88a65dc-ac8a-4478-a3f2-02ba23f4a9d9" alt="NBA" /> </td>
-      </tr>
-        <tr style="margin: auto;">
-        <td><a href="https://clarus-store-oncu.netlify.app">Clarus Store</a></td>
-        <td>Axios - react - (react-router)- Tailwind </td>
-        <td><img src="https://github.com/omer-faruk-oncu/clarus-store/assets/154313389/b6bb6b18-86f9-4846-80bd-0b74a3f5ecd5" alt="Clarus store" /> </td>
-      </tr>
-       <tr style="margin: auto;">
-        <td><a href="https://hospital-app-oncu.netlify.app">Hospital</a></td>
-        <td>React - React - (React-Bootstrap) - (React-dom) - (React-Icons) </td>
-        <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /> </td>
-      </tr>
-       <tr style="margin: auto;">
-        <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
-        <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
-        <td><img src="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe" />Stock Manager</td>
-      </tr>
-      </table>
-<!---
-omer-faruk-oncu/omer-faruk-oncu is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+     
 
 (2 MB)
 
