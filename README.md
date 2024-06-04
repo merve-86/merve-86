@@ -13,7 +13,7 @@ Merve Öncü
 </br>
 
 [![Linkedin: merve-oncu](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merve-oncu/)
-[![Gmail: farukoncu78](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:merveeoncuu86@gmail.com)
+[![Gmail: merve-oncu](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:merveeoncuu86@gmail.com)
 
 
 <p align="left">
