@@ -35,20 +35,10 @@ Technical Skills
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
-<table border="1"  align="center">
-        <h3 align="center">MY PROJECTS</h3>
-    <td  align="center"><strong>Project Live Link</strong></td>
-      <td  align="center">
-        <strong
-          >Frameworks, Libraries And Technologies</strong
-        >
-      </td>
-     
-
-(2 MB)
 
 
-## Hi there 👋
+
+
 
 <!--
 **merve-86/merve-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
