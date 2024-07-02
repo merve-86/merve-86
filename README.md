@@ -53,9 +53,9 @@ Technical Skills
     <td><img src="https://github.com/merve-86/my-blog-redux/assets/154313391/60baaf6d-4adf-45ef-adef-c6feb7fb476d" alt="My-Blog" /></td>
   </tr>
   <tr>
-    <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
+    <td><a href="https://stock-manager-merve.netlify.app">Stock Manager</a></td>
     <td>React, React-Bootstrap, React-dom, React-Icons, Axios</td>
-    <td><img src="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe" alt="Stock Manager" /></td>
+    <td><img src="https://github.com/merve-86/Stock-Maneger/assets/154313391/113bfd08-bdbc-403b-810a-9b4ccaa8ed94" alt="Stock Manager" /></td>
   </tr>
   <tr>
     <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
