@@ -63,9 +63,9 @@ Technical Skills
     <td><img src="https://github.com/merve-86/movie-app/assets/154313391/a67517e4-a819-42e5-8ce7-24ebf1a12472" alt="Movie App" /></td>
   </tr>
   <tr>
-    <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
+    <td><a href="https://todo-app-merve.netlify.app">Todo App</a></td>
     <td>React, useState, useEffect, useContext, axios, async/await</td>
-    <td><img src="https://github.com/omer-faruk-oncu/product-list/assets/154313389/8d6a052e-e2bb-4239-a07a-9757d94a6673" alt="Product List" /></td>
+    <td><img src="https://github.com/merve-86/todo-app/assets/154313391/bf5d4d0c-40e6-4d30-ac62-386fb401cffd" alt="Todo App" /></td>
   </tr>
   <tr>
     <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>
