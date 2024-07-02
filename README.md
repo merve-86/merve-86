@@ -68,14 +68,9 @@ Technical Skills
     <td><img src="https://github.com/merve-86/todo-app/assets/154313391/bf5d4d0c-40e6-4d30-ac62-386fb401cffd" alt="Todo App" /></td>
   </tr>
   <tr>
-    <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>
+    <td><a href="https://nba-legends-merve86.netlify.app">NBA Legends</a></td>
     <td>React, useState, useEffect</td>
-    <td><img src="https://github.com/omer-faruk-oncu/nba-legends/assets/154313389/f88a65dc-ac8a-4478-a3f2-02ba23f4a9d9" alt="NBA" /></td>
-  </tr>
-  <tr>
-    <td><a href="https://hospital-app-oncu.netlify.app">Hospital</a></td>
-    <td>React, React-Bootstrap, React-dom, React-Icons</td>
-    <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /></td>
+    <td><img src="https://github.com/merve-86/nba-legends/assets/154313391/9e807b6e-9f41-465e-bb5a-fc40c4e018f5" alt="NBA" /></td>
   </tr>
 </table>
 
