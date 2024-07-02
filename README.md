@@ -48,9 +48,9 @@ Technical Skills
     <th>Preview</th>
   </tr>
   <tr>
-    <td><a href="https://my-blog-oncu.netlify.app">My-Blog</a></td>
+    <td><a href="https://blog-app-merve.netlify.app">My-Blog</a></td>
     <td>React, useState, useEffect, useContext, useNavigate, axios, async/await, Tailwind, react-router, react-toastify, Redux</td>
-    <td><img src="https://github.com/omer-faruk-oncu/my-blog-redux/assets/154313389/260fd48d-9049-4342-97bf-aad95bcd3d07" alt="My-Blog" /></td>
+    <td><img src="https://github.com/merve-86/my-blog-redux/assets/154313391/60baaf6d-4adf-45ef-adef-c6feb7fb476d" alt="My-Blog" /></td>
   </tr>
   <tr>
     <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
