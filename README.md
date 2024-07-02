@@ -72,11 +72,6 @@ Technical Skills
     <td>React, useState, useEffect</td>
     <td><img src="https://github.com/merve-86/nba-legends/assets/154313391/9e807b6e-9f41-465e-bb5a-fc40c4e018f5" alt="NBA" /></td>
   </tr>
-  <tr>
-    <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
-    <td>React, useState, useEffect, useContext, axios, async/await</td>
-    <td><img src="https://github.com/omer-faruk-oncu/product-list/assets/154313389/8d6a052e-e2bb-4239-a07a-9757d94a6673" alt="Product List" /></td>
-  </tr>
 </table>
 
 
