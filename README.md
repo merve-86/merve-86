@@ -58,9 +58,9 @@ Technical Skills
     <td><img src="https://github.com/merve-86/Stock-Maneger/assets/154313391/113bfd08-bdbc-403b-810a-9b4ccaa8ed94" alt="Stock Manager" /></td>
   </tr>
   <tr>
-    <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
+    <td><a href="https://movie-app-merve.netlify.app">Movie App</a></td>
     <td>React, useState, useEffect, useContext, useNavigate, axios, async/await, Tailwind, react-router, react-toastify, Firebase, Context API, React-icons</td>
-    <td><img src="https://github.com/omer-faruk-oncu/movie-app/assets/154313389/a58c27a7-038f-4e2f-8ac5-2759ea5e602f" alt="Movie App" /></td>
+    <td><img src="https://github.com/merve-86/movie-app/assets/154313391/a67517e4-a819-42e5-8ce7-24ebf1a12472" alt="Movie App" /></td>
   </tr>
   <tr>
     <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
