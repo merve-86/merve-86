@@ -82,6 +82,11 @@ Technical Skills
     <td>React, useState, useEffect</td>
     <td><img src="https://github.com/merve-86/nba-legends/assets/154313391/9e807b6e-9f41-465e-bb5a-fc40c4e018f5" alt="NBA" /></td>
   </tr>
+   <tr>
+    <td><a href="https://movie-stars-merve.netlify.app/">Movie Star</a></td>
+    <td>React, useState, React-Bootstrap, React-dom</td>
+    <td><img src="https://github.com/user-attachments/assets/2dc5c120-b3fa-4993-b18a-d9054dd3cbf9" alt="Movie" /></td>
+  </tr>
 </table>
 
 
