@@ -87,6 +87,11 @@ Technical Skills
     <td>React, useState, React-Bootstrap, React-dom</td>
     <td><img src="https://github.com/user-attachments/assets/2dc5c120-b3fa-4993-b18a-d9054dd3cbf9" alt="Movie" /></td>
   </tr>
+   <tr>
+    <td><a href="https://rent-a-car-merve.netlify.app/">Movie Star</a></td>
+    <td>React, useState, React-Bootstrap, React-dom, LocalStorage, React-Icons, Serve</td>
+    <td><img src="https://github.com/user-attachments/assets/534a19ff-b3c4-40df-939c-1318326eaf0e" alt="Rent a car" /></td>
+  </tr>
 </table>
 
 
